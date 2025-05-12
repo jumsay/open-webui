@@ -5,6 +5,7 @@ node_modules
 /package
 .env
 .env.*
+.python-version
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
